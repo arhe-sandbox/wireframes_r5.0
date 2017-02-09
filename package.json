@@ -1,0 +1,22 @@
+{
+  "name": "arhe",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "browserify": "^14.0.0",
+    "browserify-shim": "^3.8.13",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "express": "~4.14.1",
+    "serve-favicon": "~2.3.2"
+  },
+  "devDependencies": {
+    "ejs": "^2.5.5",
+    "gulp-sass": "^3.1.0",
+    "node-sass": "^4.5.0"
+  }
+}
